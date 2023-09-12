@@ -10,6 +10,13 @@
 
 - 📫 How to reach me **yulianamarcela200@gmail.com**
 
+ ### ⭐ GitHub Stats
+[![Yuliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceyuli&show_icons=true&theme=omni)](https://github.com/marceyuli/github-readme-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dracula)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceyuli&layout=donut&theme=omni)](https://github.com/marceyuli/github-readme-stats) -->
+
+
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -27,3 +34,5 @@
       </div>
 
 </p>
+
+
