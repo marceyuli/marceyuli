@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yuliana :)
+</a></h1>
+<h3 align="center">An aspiring developer from Santa Cruz Bolivia </h3>
 
-<!--
-**marceyuli/marceyuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤝 I’m available for freelancing.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning NestJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  😄 Pronouns: She/Her
+
+- 📫 How to reach me **yulianamarcela200@gmail.com**
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+      <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yuliana-monta%C3%B1o">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+      <a style="margin-left: 10px;" target="_blank" href="https://github.com/marceyuli">
+		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+      <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/imponicornio?igshid=OGQ5ZDc2ODk2ZA==">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		  <a style="margin-left: 5px;" target="_blank" href="https://www.canva.com/design/DAFQTPWjwyM/PSlx0cy4kcbmR691oe61hg/view?utm_content=DAFQTPWjwyM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+			<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
